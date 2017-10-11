@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_38519_first_appl_first_table">x_38519_first_appl_first_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FIRST</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-11 07:28:19</sys_created_on>
+        <sys_id>a67dd72cdb390300a8be5c00cf9619b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FIRST</sys_name>
+        <sys_package display_value="First Application" source="x_38519_first_appl">468c5b68db390300a8be5c00cf961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Application">468c5b68db390300a8be5c00cf961910</sys_scope>
+        <sys_update_name>sys_number_a67dd72cdb390300a8be5c00cf9619b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-11 07:28:19</sys_updated_on>
+    </sys_number>
+</record_update>

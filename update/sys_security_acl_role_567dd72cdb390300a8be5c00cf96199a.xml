@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-11 07:28:19</sys_created_on>
+        <sys_id>567dd72cdb390300a8be5c00cf96199a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_38519_first_appl_first_table.x_38519_first_appl.first_table_user</sys_name>
+        <sys_package display_value="First Application" source="x_38519_first_appl">468c5b68db390300a8be5c00cf961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First Application">468c5b68db390300a8be5c00cf961910</sys_scope>
+        <sys_security_acl display_value="x_38519_first_appl_first_table">5e7dd72cdb390300a8be5c00cf961997</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_567dd72cdb390300a8be5c00cf96199a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-11 07:28:19</sys_updated_on>
+        <sys_user_role display_value="x_38519_first_appl.first_table_user" name="x_38519_first_appl.first_table_user">967d57e4db390300a8be5c00cf96195c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
