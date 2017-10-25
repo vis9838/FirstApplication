@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Test Cases" max_length="40" name="x_38519_first_appl_test_cases_target" type="collection">
+        <element label="Test suite" max_length="32" name="test_suite" reference="x_38519_first_appl_testsuite_target" type="reference"/>
+        <element label="Datadriven" max_length="40" name="u_datadriven" type="boolean"/>
+        <element label="Description" max_length="40" name="u_description" type="string"/>
+        <element label="Finish" max_length="40" name="u_finish" type="glide_date_time"/>
+        <element display="true" label="ID" max_length="40" name="u_id" type="string"/>
+        <element choice="1" label="&#9;Result" max_length="40" name="u_result" type="choice">
+            <choice>
+                <element label="Error" sequence="0" value="Error"/>
+                <element label="Fail" sequence="0" value="Fail"/>
+                <element label="Pass" sequence="0" value="Pass"/>
+            </choice>
+        </element>
+        <element label="Run" max_length="40" name="u_run" type="string"/>
+        <element label="Start" max_length="40" name="u_start" type="glide_date_time"/>
+        <element label="Success" max_length="40" name="u_success" type="boolean"/>
+        <element label="Index" max_length="40" name="u_test_index" type="integer"/>
+        <element label="Time" max_length="40" name="u_time" type="string"/>
+        <index name="index">
+            <element name="test_suite"/>
+        </index>
+    </element>
+</database>

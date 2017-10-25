@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Testsuite" max_length="40" name="x_38519_first_appl_testsuite_target" type="collection">
+        <element label="Axeversion" max_length="40" name="u_axeversion" type="string"/>
+        <element label="Build" max_length="40" name="u_build" type="string"/>
+        <element label="Buildtimestamp" max_length="40" name="u_buildtimestamp" type="glide_date_time"/>
+        <element label="Config" max_length="40" name="u_config" type="string"/>
+        <element label="File" max_length="40" name="u_file" type="string"/>
+        <element label="&#9;u_id" max_length="40" name="u_id" type="string"/>
+        <element display="true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element label="u_name__f_" max_length="40" name="u_name_f" type="string"/>
+        <element label="u_name__j_" max_length="40" name="u_name_j" type="string"/>
+        <element label="Runtimestamp" max_length="40" name="u_runtimestamp" type="glide_date_time"/>
+        <element label="Run master" max_length="40" name="u_run_master" type="string"/>
+        <element label="Test" max_length="40" name="u_test" type="string"/>
+        <element label="Testsuite" max_length="40" name="u_testsuite" type="string"/>
+        <element label="Version" max_length="40" name="u_version" type="string"/>
+    </element>
+</database>

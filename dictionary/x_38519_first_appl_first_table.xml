@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="First Table" max_length="40" name="x_38519_first_appl_first_table" type="collection"/>
+    <element attributes="hasLabels=true" extends="task" label="First Table" max_length="40" name="x_38519_first_appl_first_table" type="collection"/>
 </database>

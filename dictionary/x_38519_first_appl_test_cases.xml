@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Test Cases" max_length="40" name="x_38519_first_appl_test_cases" type="collection">
+        <element attributes="import_attribute_name=datadriven,edge_encryption_enabled=true" label="datadriven" max_length="40" name="u_datadriven" type="string"/>
+        <element attributes="import_attribute_name=description,edge_encryption_enabled=true" label="description" max_length="115" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=finish" label="finish" max_length="40" name="u_finish" type="glide_date_time"/>
+        <element attributes="import_attribute_name=id,edge_encryption_enabled=true" label="id" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=result,edge_encryption_enabled=true" label="result" max_length="40" name="u_result" type="string"/>
+        <element attributes="import_attribute_name=run,edge_encryption_enabled=true" label="run" max_length="40" name="u_run" type="string"/>
+        <element attributes="import_attribute_name=start" label="start" max_length="40" name="u_start" type="glide_date_time"/>
+        <element attributes="import_attribute_name=success,edge_encryption_enabled=true" label="success" max_length="40" name="u_success" type="string"/>
+        <element attributes="import_attribute_name=test_index" label="test_index" max_length="40" name="u_test_index" type="integer"/>
+        <element attributes="import_attribute_name=time,edge_encryption_enabled=true" label="time" max_length="40" name="u_time" type="string"/>
+    </element>
+</database>

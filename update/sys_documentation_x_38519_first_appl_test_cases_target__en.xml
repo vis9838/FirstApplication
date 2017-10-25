@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Test Cases" language="en" table="x_38519_first_appl_test_cases_target">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Test Cases</label>
+            <language>en</language>
+            <name>x_38519_first_appl_test_cases_target</name>
+            <plural>Test Cases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 08:01:15</sys_created_on>
+            <sys_id>27a166fcdb4a0300a8be5c00cf961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Test Cases</sys_name>
+            <sys_package display_value="First Application" source="x_38519_first_appl">468c5b68db390300a8be5c00cf961910</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First Application">468c5b68db390300a8be5c00cf961910</sys_scope>
+            <sys_update_name>sys_documentation_x_38519_first_appl_test_cases_target__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 08:01:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,21 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_38519_first_appl_first_table">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_datadriven" table="x_38519_first_appl_test_cases">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>hasLabels=true</attributes>
+        <attributes>import_attribute_name=datadriven,edge_encryption_enabled=true</attributes>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label/>
+        <column_label>datadriven</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -28,13 +23,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element/>
+        <element>u_datadriven</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Collection">collection</internal_type>
+        <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_38519_first_appl_first_table</name>
+        <name>x_38519_first_appl_test_cases</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -51,16 +46,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-10-11 07:28:19</sys_created_on>
-        <sys_id>a97ed36cdb390300a8be5c00cf961948</sys_id>
+        <sys_created_on>2017-10-24 07:59:17</sys_created_on>
+        <sys_id>3a3122fcdb4a0300a8be5c00cf9619af</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_38519_first_appl_first_table</sys_name>
+        <sys_name>datadriven</sys_name>
         <sys_package display_value="First Application" source="x_38519_first_appl">468c5b68db390300a8be5c00cf961910</sys_package>
         <sys_policy/>
         <sys_scope display_value="First Application">468c5b68db390300a8be5c00cf961910</sys_scope>
-        <sys_update_name>sys_dictionary_x_38519_first_appl_first_table_NULL</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-10-11 07:32:38</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_38519_first_appl_test_cases_u_datadriven</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-24 07:59:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

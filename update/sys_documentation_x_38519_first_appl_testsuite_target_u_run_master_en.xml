@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_run_master" label="Run master" language="en" table="x_38519_first_appl_testsuite_target">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_run_master</element>
+            <help/>
+            <hint/>
+            <label>Run master</label>
+            <language>en</language>
+            <name>x_38519_first_appl_testsuite_target</name>
+            <plural>Run masters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-10-24 07:47:08</sys_created_on>
+            <sys_id>c57e9a7cdb4a0300a8be5c00cf961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Run master</sys_name>
+            <sys_package display_value="First Application" source="x_38519_first_appl">468c5b68db390300a8be5c00cf961910</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="First Application">468c5b68db390300a8be5c00cf961910</sys_scope>
+            <sys_update_name>sys_documentation_x_38519_first_appl_testsuite_target_u_run_master_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-10-24 07:47:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

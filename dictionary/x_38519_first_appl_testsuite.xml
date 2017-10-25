@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Testsuite" max_length="40" name="x_38519_first_appl_testsuite" type="collection">
+        <element attributes="import_attribute_name=AxeVersion,edge_encryption_enabled=true" label="AxeVersion" max_length="40" name="u_axeversion" type="string"/>
+        <element attributes="import_attribute_name=build,edge_encryption_enabled=true" label="build" max_length="40" name="u_build" type="string"/>
+        <element attributes="import_attribute_name=buildtimestamp" label="buildtimestamp" max_length="40" name="u_buildtimestamp" type="glide_date_time"/>
+        <element attributes="import_attribute_name=config,edge_encryption_enabled=true" label="config" max_length="40" name="u_config" type="string"/>
+        <element attributes="import_attribute_name=file,edge_encryption_enabled=true" label="file" max_length="69" name="u_file" type="string"/>
+        <element attributes="import_attribute_name=id,edge_encryption_enabled=true" label="id" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=name,edge_encryption_enabled=true" label="name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=name (F),edge_encryption_enabled=true" label="name (F)" max_length="40" name="u_name__f_" type="string"/>
+        <element attributes="import_attribute_name=name (J),edge_encryption_enabled=true" label="name (J)" max_length="40" name="u_name__j_" type="string"/>
+        <element attributes="import_attribute_name=runtimestamp" label="runtimestamp" max_length="40" name="u_runtimestamp" type="glide_date_time"/>
+        <element attributes="import_attribute_name=run_master,edge_encryption_enabled=true" label="run_master" max_length="40" name="u_run_master" type="string"/>
+        <element attributes="import_attribute_name=test,edge_encryption_enabled=true" label="test" max_length="40" name="u_test" type="string"/>
+        <element attributes="import_attribute_name=testsuite,edge_encryption_enabled=true" label="testsuite" max_length="40" name="u_testsuite" type="string"/>
+        <element attributes="import_attribute_name=version,edge_encryption_enabled=true" label="version" max_length="40" name="u_version" type="string"/>
+    </element>
+</database>
